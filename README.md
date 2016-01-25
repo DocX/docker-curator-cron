@@ -1,6 +1,6 @@
 # Curator CRON task in Docker 
 
-Dockerized version of Elasticsearch Curator run as CRON daily task. Useful for production deployment to manage time-based indices.
+Dockerized version of Elasticsearch Curator run as CRON daily task. Useful for production, maintanence-free, deployment to manage time-based indices.
 
 ## Why this image
 
